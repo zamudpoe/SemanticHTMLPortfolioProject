@@ -68,9 +68,9 @@ To https://github.com/zamudpoe/SemanticHTMLPortfolioProject.git
 
 This will push the src folder up to GitHub on the gh-pages branch. After that, you should be able to open up http://username.github.io/SemanticHTMLPortfolioProject , where ```username``` is your GitHub username.
 
-I give to you my portfolio : [SemanticHTMLPortfolioProject] 
+I give to you my portfolio : [SemanticHTMLPortfolioProject]
 
 
 
 
-[SemanticHTMLPortfolioProject]:(http://username.github.io/SemanticHTMLPortfolioProject)
+[SemanticHTMLPortfolioProject]:(http://zamudpoe.github.io/SemanticHTMLPortfolioProject)
