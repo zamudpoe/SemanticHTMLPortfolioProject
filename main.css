@@ -71,7 +71,6 @@ a.active {
 /*
  * HEADER
  */
-
 .header, header {
   align-items: center;
   background-color: #EFEFEF;
@@ -79,7 +78,8 @@ a.active {
   background-position: cover;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  border-top: 4px solid #e91e63;
+  /* border-top: 4px solid #e91e63; */
+  border-top: 4px solid tomato;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -89,6 +89,13 @@ a.active {
   padding: 0 20px;
   position: relative;
   text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  opacity: .86;
 }
 
 @media only screen and (max-device-width: 420px)  {
@@ -131,7 +138,8 @@ a.active {
  */
 
 .skills {
-  background: #e91e63;
+  /*background: #e91e63;*/
+  background-color: tomato;
   color: white;
 }
 
